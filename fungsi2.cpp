@@ -47,6 +47,7 @@ int main(){
 	inputNilai(0, 0);
 	
 	cout << "Program berakhir" << endl;
+	cout << "Program ini telah diedit!!"\n;
 	return 0;
 	
 }
